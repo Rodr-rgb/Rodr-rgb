@@ -1,4 +1,4 @@
-# Rodriguez Joana Gabriel
+# Kauffman Sarah
 
 Full Stack Software Engineer | AI Model Evaluator (RLHF) | LLM Safety & Prompt Engineering
 
