@@ -1,4 +1,4 @@
-# Jason Murimi
+# KAUFFMAN SARAH
 
 Full Stack Software Engineer | AI Model Evaluator (RLHF) | LLM Safety & Prompt Engineering
 
